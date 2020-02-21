@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Anthony Diké',
   subtitle:
     'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
@@ -13,16 +13,20 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: '✏️ Posts',
       path: '/',
     },
     {
-      label: 'About me',
-      path: '/pages/about',
+      label: '👤 Who the heck am I?',
+      path: '/about',
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts',
+      label: "📚 Books I'm Reading",
+      path: '/reading',
+    },
+    {
+      label: "📍 What I'm up to",
+      path: '/now',
     },
   ],
   author: {
@@ -30,11 +34,11 @@ module.exports = {
     photo: '/anthony_botan.jpg',
     bio: "Hey 👋, I'm a startup-er & student based in New York City",
     contacts: {
-      email: 'mailto:anthonydike@nyu.edu',
+      email: 'anthonydike@nyu.edu',
       facebook: '',
       telegram: '',
-      twitter: 'https://twitter.com/antdke',
-      github: 'https://github.com/antdke',
+      twitter: 'antdke',
+      github: 'antdke',
       rss: '',
       vkontakte: '',
       linkedin: '',
