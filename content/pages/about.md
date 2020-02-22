@@ -4,13 +4,7 @@ template: 'page'
 socialImage: '/media/anthony_about_pic.jpg'
 ---
 
-![A picture of me at the New York Botanical Garden in the Bronx. Went with some friends when it was very cold out. I thought I could look cool by only wearing a hoodie without a coat, gloves, or a scarf...I was freezing my butt off.](https://i.ibb.co/MPDz2pC/anthony-about-pic.jpg)
-
-https://i.ibb.co/MPDz2pC/anthony-about-pic.jpg
-
-<img src="https://i.ibb.co/MPDz2pC/anthony-about-pic.jpg" alt="anthony-about-pic" border="0">
-
-Hello
+<img src="https://i.ibb.co/MPDz2pC/anthony-about-pic.jpg" alt="A picture of me at the New York Botanical Garden in the Bronx. Went with some friends when it was very cold out. I thought I could look cool by only wearing a hoodie without a coat, gloves, or a scarf...I was freezing my butt off." border="0" height="462">
 
 I like **geeking about products** & **building businesses**.
 
