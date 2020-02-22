@@ -8,10 +8,10 @@ description: 'As an artist, as a creator, as a maker of things —You shouldn’
 
 You should use it less because there comes a point when you begin to consume more than you create.'
 date: '2020-01-11'
-socialImage: '/media/create-more.png'
+socialImage: 'https://i.ibb.co/SyBCGb0/create-more.png'
 ---
 
-![Creation > Consumption](/media/create-more.png)
+<img src="https://i.ibb.co/SyBCGb0/create-more.png" alt="Creation > Consumption" border="0" width="600">
 
 As an artist, as a creator, as a maker of things—You shouldn’t use social media less because it’s “bad” for you.
 
@@ -25,7 +25,7 @@ Last night, I decided to delete Twitter from my phone & set my phone to greyscal
 
 Take it from the mind that architected Tinder —the top grossing app of all time.
 
-![Brian Norgard Tweet](/media/norgard-mono-tasks.png)
+<img src="https://i.ibb.co/VtdMSbd/norgard-mono-tasks.png" alt="Brian Norgard Tweet" border="0" width="600">
 
 Let’s imagine that you’re playing with LEGOs.
 
