@@ -9,6 +9,7 @@ date: '2020-02-24'
 socialImage: 'https://i.ibb.co/DLtnnxc/cover.png'
 ---
 
+<br />
 <img src="https://i.ibb.co/DLtnnxc/cover.png" alt="cover" border="0" width="600">
 
 On Thursday, I went to a Substack-hosted meetup for writers.
