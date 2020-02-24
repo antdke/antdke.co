@@ -39,4 +39,4 @@ Create more than you consume.
 
 Go create.
 
-(This post went viral on Hacker News with 30+ upvotes & 3000+ views the day I published it. Very proud of myself for that 😊)
+(This post went [viral on Hacker News](https://news.ycombinator.com/item?id=22020726) with 30+ upvotes & 3000+ views the day I published it. Very proud of myself for that 😊)

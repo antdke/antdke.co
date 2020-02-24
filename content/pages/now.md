@@ -12,6 +12,6 @@ Since the start of **2020**, I've been...
 
 - 🧘 Practicing gratitude & mindfulness
 
-Currently, challenging myself to make \$1,000 by Spring Break (March 13) so I can go to Miami with friends 🌴
+Currently, challenging myself to make \$500 by Spring Break (March 13) so I can go to Miami with friends 🌴
 
 If you [have a generous heart](https://www.patreon.com/antdke), it will be much appreciated 🤗
