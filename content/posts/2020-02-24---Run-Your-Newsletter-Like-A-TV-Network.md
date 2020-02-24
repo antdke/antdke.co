@@ -92,7 +92,7 @@ This is how Richard, a **product manager at Zendesk** described my newsletter:
 
 > "You put out some great content…you are creating is a great primer, a refresher for product people and an intro for non-product."
 
-🤗 **If that's your thing, you can subscribe [here](https://theproductperson.substack.com/).**
+🤗 **If that's your thing, you can subscribe [here](https://theproductperson.com/).**
 
 Much love,<br />
 Anthony

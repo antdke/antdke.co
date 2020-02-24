@@ -17,15 +17,15 @@ module.exports = {
     },
     {
       label: '👤 Who the heck am I?',
-      path: '/about',
+      path: '/pages/about',
     },
     {
       label: "📚 Books I'm Reading",
-      path: '/reading',
+      path: '/pages/reading',
     },
     {
       label: "📍 What I'm up to",
-      path: '/now',
+      path: '/pages/now',
     },
   ],
   author: {
