@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://antdke.co',
-  pathPrefix: 'antdke.co/',
+  pathPrefix: '/',
   title: 'Anthony Diké',
   subtitle: "Hey 👋, I'm a startup- er & student based in New York City",
   copyright: '© All rights reserved - Anthony Diké',
