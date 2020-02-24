@@ -2,13 +2,13 @@
 
 module.exports = {
   url: 'https://antdke.co',
-  pathPrefix: '/',
+  pathPrefix: 'antdke.co/',
   title: 'Anthony Diké',
   subtitle: "Hey 👋, I'm a startup- er & student based in New York City",
   copyright: '© All rights reserved - Anthony Diké',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-143868406-2',
   useKatex: false,
   menu: [
     {
