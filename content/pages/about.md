@@ -23,4 +23,4 @@ These days, I mostly code, read, write, bike through New York City, and design p
 - ✏️ In summer 2016, I won an award from Columbia University for a short story. Here's [a sappy poem](https://www.instagram.com/p/BkbUCbMAw7K/?utm_source=ig_web_copy_link) I wrote that my friends like.
 - 🎒 I attend **New York University**. I'm a third-year student.
 
-To see what I'm up to **right now,** **[go here](/now).**
+To see what I'm up to **right now,** **[go here](/pages/now).**
