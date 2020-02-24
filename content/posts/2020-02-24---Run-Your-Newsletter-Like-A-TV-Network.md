@@ -1,6 +1,6 @@
 ---
 title: 'Run Your Newsletter Like A TV Network'
-slug: 'newsletter-like-a-tv-network'
+slug: 'run-your-newsletter-like-a-tv-network'
 draft: false
 template: 'post'
 category: 'Business Strategy'
