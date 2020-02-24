@@ -38,3 +38,5 @@ There are no new shiny pieces coming in. You’re bored. But now, you have the t
 Create more than you consume.
 
 Go create.
+
+(This post went viral on Hacker News with 30+ upvotes & 3000+ views the day I published it. Very proud of myself for that 😊)
