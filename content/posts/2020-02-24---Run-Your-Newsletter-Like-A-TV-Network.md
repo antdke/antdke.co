@@ -3,7 +3,7 @@ title: 'Run Your Newsletter Like A TV Network'
 slug: 'newsletter-like-a-tv-network'
 draft: false
 template: 'post'
-category: 'Tips'
+category: 'Business Strategy'
 description: "On Thursday, I went to a Substack-hosted meetup for writers. One of these writers, Walter Hickey, gave an interesting keynote. He broke down how to run a newsletter like a TV Network. I've sharing what I've learned with you."
 date: '2020-02-24'
 socialImage: 'https://i.ibb.co/DLtnnxc/cover.png'
@@ -25,19 +25,19 @@ He talked about running his newsletter, [Numlock](https://numlock.substack.com/)
 
 #### TV Networks make 3 kinds of content:
 
-**1.** Expensive content they don't own that brings in new eyeballs. <br />
+**1.** **Expensive content** they don't own that brings in new eyeballs. <br />
 
-**2.** Their own content that people enjoy and come back for. <br />
+**2.** Their **own content** that people enjoy and come back for. <br />
 
-**3.** Cheap, easy content that has high returns on effort put in. <br />
+**3.** Cheap, **easy content** that has high returns on effort put in. <br />
 
 <br />
 <img src="https://i.ibb.co/52S0GKX/pic2.png" alt="pic2" border="0" width="600">
 <br />
 
-Networks like ABC have perfected this model.
+Networks like ABC have **perfected** this model.
 
-They "rent" expensive content like the NBA Finals that attracts viewers that would rarely, if ever, visit their ABC channel. Then during the commercials breaks, they run ads for their heroine-grade primetime shows like The Bachelor.
+They rent expensive content like the NBA Finals that attracts viewers that would rarely, if ever, visit their ABC channel. Then during the commercials breaks, they run ads for their heroine-grade primetime shows like The Bachelor.
 
 Their bet is that once you get hooked on Grey's Anatomy or Modern Family, you'll be more likely to watch their easy-to-make shows with high margins like Jeopardy, Good Morning America, and ABC News before you're able to remove the needle from your arm.
 
@@ -51,7 +51,7 @@ Their bet is that once you get hooked on Grey's Anatomy or Modern Family, you'll
 
 **1.** You want to draw randos in. <br />
 **2.** Give them a reason to stay. <br />
-**3.** Then direct to your content that takes little work to make but is still highly useful to them. <br />
+**3.** Then direct them to your content that takes little work to make but is still highly useful to them. <br />
 
 **Example:**
 
@@ -69,21 +69,23 @@ To make it specific to newsletters, I'll use [Marketing Examples](https://market
 <img src="https://i.ibb.co/rxWMWXM/pic4.png" alt="pic4" border="0" width="600">
 <br />
 
-Walter also broke down several not-so-obvious ways that newsletters could make money via subscriptions.
+Walter also broke down several **not-so-obvious ways** that newsletters could make money via subscriptions.
 
-They all revolve around scarce, limited edition posts. For example,
+They all revolve around **scarce, limited edition posts.**
 
-**1.** Creating paid content about the Presidential elections around October when that type of content is in high-demand. <br />
+For example:
 
-**2.** Creating aid content that arrives quarterly where you create a comprehensive report or "State of the union" about an industry or company. You can get companies to buy it as a work expense. <br />
+**1.** Creating paid content about the **Presidential elections** around October when that type of content is in **high-demand.** <br />
 
-**3.** Promising a limited amount of paid content that you'll release throughout the year and then have people pay for it once you actually write it. <br />
+**2.** Creating paid content that arrives quarterly where you create a **comprehensive report** or "State of the union" **about an industry or company.** You can get companies to buy it as a work expense. <br />
+
+**3.** Promising a **limited amount** of paid content that you'll **release throughout the year** and then have people pay for it once you actually write it. <br />
 
 All these tips resonated with me. They were the only pictures of slides that I took throughout the whole event. They were so good that I felt an obligation to share them with you. Hope you find them useful as well :)
 
 <hr >
 
-Btw, I also have a newsletter. I write an article once a week, typically Wednesdays, that'll improve your product skills. I have **4,000 other product people** already subscribed.
+Btw, I also have a newsletter. I write an article once a week, typically Wednesdays, that'll **improve your product skills.** I have **4,000 other product people** already subscribed. Don't be left out.
 
 This is how Richard, a **product manager at Zendesk** described my newsletter:
 
