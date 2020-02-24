@@ -8,7 +8,7 @@ description: 'As an artist, as a creator, as a maker of things —You shouldn’
 
 You should use it less because there comes a point when you begin to consume more than you create.'
 date: '2020-01-11'
-socialImage: '../static/create-more.png'
+socialImage: '/static/create-more.png'
 ---
 
 <br />
