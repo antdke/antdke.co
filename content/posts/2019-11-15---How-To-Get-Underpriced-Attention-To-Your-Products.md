@@ -212,6 +212,6 @@ In advertiser symbiosis, the marketer has to understand the consumer’s needs a
 
 <hr >
 
-_This post was originally released as an issue in my newsletter, The Product Person._
+_This post was originally released as an issue in **my product newsletter, The Product Person**._
 
-If you enjoyed this, you can get posts like this by subscribing **[here](https://theproductperson.com)**.
+If you got this far, you probably enjoyed it. So subscribe to my product newsletter 👉 **[here](https://theproductperson.com)**.
