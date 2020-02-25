@@ -6,7 +6,9 @@ socialImage: '/media/anthony_about_pic.jpg'
 
 <img src="https://i.ibb.co/MPDz2pC/anthony-about-pic.jpg" alt="A picture of me at the New York Botanical Garden in the Bronx. Went with some friends when it was very cold out. I thought I could look cool by only wearing a hoodie without a coat, gloves, or a scarf...I was freezing my butt off." border="0" height="462">
 
-I like **geeking about products** & **building businesses**.
+I love **geeking about products** & **building businesses**.
+
+Although I should, I don't have a part-time job because I'm going all in on making money doing what I love.
 
 My end goal is **generational wealth**.
 
