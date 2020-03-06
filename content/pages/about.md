@@ -7,15 +7,16 @@ socialImage: '/media/anthony_about_pic.jpg'
 <img src="https://i.ibb.co/MPDz2pC/anthony-about-pic.jpg" alt="A picture of me at the New York Botanical Garden in the Bronx. Went with some friends when it was very cold out. I thought I could look cool by only wearing a hoodie without a coat, gloves, or a scarf...I was freezing my butt off." border="0" height="462">
 
 <br/>
+
 ## Half-backed bio
+
+**Got into tech and startups at 16.** I helped with a friend's startup. Then I found **Garyvee** and startup videos on YouTube. Then I found **Naval** and tech twitter. Then I got into **indie hacking**. Now I'm here. (I might make a more in-depth bio later on, we'll see)
 
 I love **geeking about products** & **building businesses**.
 
 No part-time job. **Doing what I love.**
 
 My end goal is **generational wealth**.
-
-**Got into tech and startups at 16.** I helped with a friend's startup. Then I found **Garyvee** and startup videos on YouTube. Then I found **Naval** and tech twitter. Then I got into **indie hacking**. Now I'm here. (I might make a more in-depth bio later on, we'll see)
 
 These days, I mostly code, [read](/pages/reading), [write](/), bike through New York City, and design products.
 
