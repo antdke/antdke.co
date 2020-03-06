@@ -208,7 +208,7 @@ Thales terms the process of creating content that allows for the mutual benefit 
 
 In advertiser symbiosis, the marketer has to understand the consumer’s needs and create content that allows the consumer to benefit personally. But remember, brands must remain self-interested by making sure they achieve their goals of persuasion or else they risk providing free entertainment for audiences that will never consider their products.
 
-📝 You can read the full 23-page working paper [here](https://www.hbs.edu/faculty/Publication%20Files/14-055_2ef21e7e-7529-4864-b0f0-c64e4169e17f.pdf).
+📝 This post is a summary of a Harvard Working Paper. You can read the full 23-page paper [here](https://www.hbs.edu/faculty/Publication%20Files/14-055_2ef21e7e-7529-4864-b0f0-c64e4169e17f.pdf).
 
 <hr >
 
