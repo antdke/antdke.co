@@ -19,3 +19,5 @@ Since the start of **2020**, I've been...
 If you [have a generous heart](https://www.patreon.com/antdke), it will be much appreciated 🤗  -->
 
 Thanks [Derek](https://nownownow.com/about) & [Ryan](https://www.ryanckulp.com/now/) for the inspiration.
+
+_Last Updated: March 3, 2020_
