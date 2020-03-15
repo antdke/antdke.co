@@ -10,7 +10,9 @@ socialImage: '/static/newsletter-tv.png'
 ---
 
 <br />
-<img src="https://i.ibb.co/DLtnnxc/cover.png" alt="cover" border="0" width="600">
+<img src="https://i.ibb.co/DLtnnxc/cover.png" alt="cover" border="0" width="800">
+
+<br />
 
 On Thursday, I went to a Substack-hosted meetup for writers.
 
