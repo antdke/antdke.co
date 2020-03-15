@@ -10,7 +10,7 @@ socialImage: 'static/attention.png'
 ---
 
 <br />
-<img src="https://i.ibb.co/pd6hbpM/attention.png" alt="attention" border="0" width="600">
+<img src="https://i.ibb.co/pd6hbpM/attention.png" alt="attention" border="0" width="800">
 
 ## Why you should care about what the consumer wants
 

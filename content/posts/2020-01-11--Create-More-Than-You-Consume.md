@@ -12,7 +12,7 @@ socialImage: '/static/create-more.png'
 ---
 
 <br />
-<img src="https://i.ibb.co/SyBCGb0/create-more.png" alt="Creation > Consumption" border="0" width="600">
+<img src="https://i.ibb.co/SyBCGb0/create-more.png" alt="Creation > Consumption" border="0" width="800">
 
 As an artist, as a creator, as a maker of things—You shouldn’t use social media less because it’s “bad” for you.
 
