@@ -16,7 +16,7 @@ socialImage: 'https://i.ibb.co/bdD0bKW/cover-1.png'
 
 Netflix's [Hip Hop Evolution](https://www.netflix.com/title/80141782) docu-series is freakin' amazing.
 
-At the end of my 3 hour binge last night, I watched an episode about mixtapes. (It's called _Street Dreams_. Season 4, episode 4. In case you want to watch it.)
+At the end of my 3 hour binge last night, I watched an episode about mixtapes.
 
 ## Strictly for the Fans
 
@@ -41,5 +41,7 @@ I'm literally doing this right now as I'm [documenting myself build a B2B SaaS a
 Watching that Netflix episode (while in self-quarantine) gave me new heroes to look up to. You'd think that being in tech means that your heroes have to be Steve, Bill, Jeff, or Elon.
 
 Sure, If I had a list of my top heroes then those four would definitely be on there. But after that episode, brothers like [Dwayne](https://en.wikipedia.org/wiki/Lil_Wayne), [Curtis](https://en.wikipedia.org/wiki/50_Cent), and [Clifford](https://en.wikipedia.org/wiki/T.I.) now have a cherished place on my list.
+
+(The episode is called _Street Dreams_. Season 4, episode 4. In case you want to watch it. _If you're a hip hop fan, I highly recommend_)
 
 <br />
