@@ -24,7 +24,7 @@ Artists like [Lil Wayne](https://en.wikipedia.org/wiki/Lil_Wayne), [50 Cent](htt
 
 For mixtapes, they used their own equipment and resources instead of record labels'. This was done to be able to make music how they wanted without corporate input or permission.
 
-Also, since mixtapes were moreso for pleasing loyal fans and not commercial gain, rap artists broke rules. They'd take the melodies and beats of beloved-songs owned by labels and then just put their own spin on them —re-mixing, if you will.
+Also, since mixtapes were moreso for pleasing loyal fans than commercial gain, rap artists broke rules. They'd take the melodies and beats of beloved-songs owned by labels and then just put their own spin on them —re-mixing, if you will.
 
 They'd release mixtapes whenever they wanted and however they wanted. Flexing their creative muscles, spilling their true hearts on wax, and strengthening their bonds with their fans.
 
