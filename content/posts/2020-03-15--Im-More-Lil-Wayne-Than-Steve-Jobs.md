@@ -42,6 +42,8 @@ Watching that Netflix episode (while in self-quarantine) gave me new heroes to l
 
 Sure, If I had a list of my top heroes then those four would definitely be on there. But after that episode, brothers like [Dwayne](https://en.wikipedia.org/wiki/Lil_Wayne), [Curtis](https://en.wikipedia.org/wiki/50_Cent), and [Clifford](https://en.wikipedia.org/wiki/T.I.) now have a cherished place on my list.
 
+<hr />
+
 (The episode is called _Street Dreams_. Season 4, episode 4. In case you want to watch it. _If you're a hip hop fan, I highly recommend_)
 
 <br />
