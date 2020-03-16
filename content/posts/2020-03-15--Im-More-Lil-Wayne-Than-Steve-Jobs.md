@@ -16,7 +16,7 @@ socialImage: 'https://i.ibb.co/bdD0bKW/cover-1.png'
 
 Netflix's [Hip Hop Evolution](https://www.netflix.com/title/80141782) docu-series is freakin' amazing.
 
-At the end of my 3 hour binge last night, I watched an episode about mixtapes.
+At the end of my 3 hour binge last night, I watched an episode about mixtapes. (It's called _Street Dreams_. Season 4, episode 4. In case you want to watch it.)
 
 ## Strictly for the Fans
 
