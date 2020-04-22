@@ -6,11 +6,11 @@ template: 'post'
 category: 'Life'
 description: "After watching an episode of Netflix's Hip Hop Evolution, I've gained new heroes to look up to alongside Steve, Bill, Jeff, and Elon."
 date: '2020-03-15'
-socialImage: 'https://i.ibb.co/bdD0bKW/cover-1.png'
+socialImage: '/more-like-wayne.png'
 ---
 
 <br />
-<img src="https://i.ibb.co/bdD0bKW/cover-1.png" alt="cover-1" border="0" width="800">
+<img src="/more-like-wayne.png" alt="cover-1" border="0" width="800">
 
 <br />
 

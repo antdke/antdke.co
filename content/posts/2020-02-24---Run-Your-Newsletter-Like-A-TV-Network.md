@@ -10,7 +10,7 @@ socialImage: '/newsletter-tv.png'
 ---
 
 <br />
-<img src="https://i.ibb.co/DLtnnxc/cover.png" alt="cover" border="0" width="800">
+<img src="/newsletter-tv.png" alt="cover" border="0" width="800">
 
 <br />
 
