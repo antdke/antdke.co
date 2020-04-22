@@ -42,7 +42,7 @@ There are many lessons that entreprenuers can learn from rappers. For example, i
 - He loved his fans (Read: customers)
 - And he did it all on drugs (optional)
 
-I wrote on [awesome thread](https://twitter.com/antdke/status/1240882576526643200?s=20) on Wayne.
+I wrote on [awesome Twitter thread](https://twitter.com/antdke/status/1240882576526643200?s=20) on Wayne.
 
 ## Old Heroes, New Heroes
 
