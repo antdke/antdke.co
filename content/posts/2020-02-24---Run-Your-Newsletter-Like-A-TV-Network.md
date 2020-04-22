@@ -60,11 +60,11 @@ Their bet is that once you get hooked on Grey's Anatomy or Modern Family, you'll
 
 To make it specific to newsletters, I'll use [Marketing Examples](https://marketingexamples.com/) by Harry Dry ([@HarryDry](https://twitter.com/harrydry)) as an example.
 
-**1.** He created [Startup Gifs](https://marketingexamples.com/gifs) to promote his newsletter. <br />
+**1.** He launched [Startup Gifs](https://marketingexamples.com/gifs) to promote his newsletter. Not his own gifs but he edited them to create this product. <br />
 
 **2.** His newsletter creates great content & tweets that keeps readers coming back. <br />
 
-**3.** I'm not sure if he already does this but he should consider doing easy-to-make content like interviews of marketing execs or marketing-minded founders to close the content loop. (_You reading this Harry?_ 😉) <br />
+**3.** He should compile his best tips and sell it as a book. High margin. Low effort.(_You reading this Harry?_ 😉) <br />
 
 ## Clever Ways Your Newsletter Can Make Money
 
