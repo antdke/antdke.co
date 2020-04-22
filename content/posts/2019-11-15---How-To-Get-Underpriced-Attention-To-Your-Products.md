@@ -6,7 +6,7 @@ template: 'post'
 category: 'Business Strategy'
 description: 'A summary of a 23-page Harvard Working Paper titled “The Rising Cost of Consumer Attention: Why You Should Care, and What You Can Do About It” by Thales S. Teixeira. '
 date: '2019-11-15'
-socialImage: 'static/attention.png'
+socialImage: '/attention.png'
 ---
 
 <br />

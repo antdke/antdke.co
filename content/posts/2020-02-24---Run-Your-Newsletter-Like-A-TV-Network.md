@@ -6,7 +6,7 @@ template: 'post'
 category: 'Business Strategy'
 description: "On Thursday, I went to a Substack-hosted meetup for writers. One of these writers, Walter Hickey, gave an interesting keynote. He broke down how to run a newsletter like a TV Network. I've sharing what I've learned with you."
 date: '2020-02-24'
-socialImage: '/static/newsletter-tv.png'
+socialImage: '/newsletter-tv.png'
 ---
 
 <br />
