@@ -8,7 +8,7 @@ Since the start of **2020**, I've been...
 
 - 🚢 Shipping products. So far: [Product Checklist](https://twitter.com/antdke/status/1249723759713554433) // [Chatparty](https://www.producthunt.com/posts/chatparty) // and _more to come_...
 
-- 🛠️ Growing a community around [learning product skills](https://theproductperson.com) —Up to 4,000 people at time of writing this!
+- 🛠️ Growing a community around [learning product skills](https://theproductperson.com) —Over 4,100 people at time of writing this!
 
 - 🚀 Helping NYU entrepreneurs start-up on the board of [The InnoVention Society](https://ivs.nyc).
 
