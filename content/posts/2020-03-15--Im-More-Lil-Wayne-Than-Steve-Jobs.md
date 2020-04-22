@@ -34,7 +34,15 @@ Using your own tools and resources. Taking what you like from someone else and m
 
 To me, that sounds just like the modern-day bootstrapped indie hacker.
 
-I'm literally doing this right now as I'm [documenting myself build a B2B SaaS app](https://twitter.com/antdke/status/1236721851168182277?s=20).
+There are many lessons that entreprenuers can learn from rappers. For example, in 2007, Wayne dropped 100 songs for free on the internet. In 2008, he released Tha Carter 3 —an album that propelled him to the status of “greatest rapper alive.”
+
+- He shipped like a manic
+- He listened to his gut
+- He tested in public
+- He loved his fans (Read: customers)
+- And he did it all on drugs (optional)
+
+I wrote on [awesome thread](https://twitter.com/antdke/status/1240882576526643200?s=20) on Wayne.
 
 ## Old Heroes, New Heroes
 
