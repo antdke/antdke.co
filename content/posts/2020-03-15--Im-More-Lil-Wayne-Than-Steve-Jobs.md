@@ -10,7 +10,7 @@ socialImage: '/more-like-wayne.png'
 ---
 
 <br />
-<img src="/more-like-wayne.png" alt="cover-1" border="0" width="800">
+<!-- <img src="/more-like-wayne.png" alt="cover-1" border="0" width="800"> -->
 
 <br />
 
