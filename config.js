@@ -4,7 +4,8 @@ module.exports = {
   url: 'https://antdke.co',
   pathPrefix: '/',
   title: 'Anthony Diké',
-  subtitle: "Hey 👋, I'm a startup- er & student based in New York City",
+  subtitle:
+    "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City",
   copyright: '© All rights reserved - Anthony Diké',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +32,8 @@ module.exports = {
   author: {
     name: 'Anthony Diké',
     photo: '/anthony_botan.jpg',
-    bio: "Hey 👋, I'm a startup-er & student based in New York City",
+    bio:
+      "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City",
     contacts: {
       email: 'anthonydike@nyu.edu',
       facebook: '',

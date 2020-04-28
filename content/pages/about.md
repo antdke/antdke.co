@@ -8,7 +8,7 @@ socialImage: '/media/anthony_about_pic.jpg'
 
 <br/>
 
-## Half-backed bio
+## Half-baked bio
 
 **Got into tech and startups at 16.** I helped with a friend's startup. Then I found **Garyvee** and startup videos on YouTube. Then I found **Naval** and tech twitter. Then I got into **indie hacking**. Now I'm here. (I might make a more in-depth bio later on, we'll see)
 
