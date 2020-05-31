@@ -22,11 +22,11 @@ These days, I mostly code, [read](/pages/reading), [write](/), bike through New 
 
 ## Fun Facts About Me
 
-- 📏 I'm 6 feet & 4 inches tall (193 cm)
-- 🍅 I'll eat all foods, _except_ raw tomatoes 🤮
-- 🇳🇬 I was born in Lagos, Nigeria. Swam over to NYC at age 3
-- 🏀 I'm a huge Lebron James fan. Go ~~Cavs Heat Cavs~~ Lakers! [I enjoy playing pick-up games too.](https://www.instagram.com/p/BxoBH1LhDQ8/?utm_source=ig_web_copy_link)
-- ✏️ In summer 2016, I won an award from Columbia University for a short story. Here's [a sappy poem](https://www.instagram.com/p/BkbUCbMAw7K/?utm_source=ig_web_copy_link) I wrote that my friends like.
-- 🎒 I attend **New York University**. I'm a third-year student.
+- 📏 -- I'm 6 feet & 4 inches tall (193 cm)
+- 🍅 -- I'll eat all foods, _except_ raw tomatoes 🤮
+- 🇳🇬 -- I was born in Lagos, Nigeria. Swam over to NYC at age 3
+- 🏀 -- I'm a huge Lebron James fan. Go ~~Cavs Heat Cavs~~ Lakers! [I enjoy playing pick-up games too.](https://www.instagram.com/p/BxoBH1LhDQ8/?utm_source=ig_web_copy_link)
+- ✏️ -- In summer 2016, I won an award from Columbia University for a short story. Here's [a sappy poem](https://www.instagram.com/p/BkbUCbMAw7K/?utm_source=ig_web_copy_link) I wrote that my friends like.
+- 🎒 -- I attend **New York University**. I'm a third-year student.
 
 To see what I'm up to **right now,** **[go here](/pages/now).**

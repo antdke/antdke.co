@@ -56,7 +56,7 @@ Here are 3 results from studies done with TV ads that should help you understand
 
 **Attention has 2 dimensions:** intensity (quality) and duration (quantity). So far, we know that the quality of attention is decreasing while prices are rising. A knee jerk reaction to this trend is that marketers seek to increase their ad spend as prices rise to counteract the drop in quality. I’ve decided to term this as “The Marketer’s Dilemma”.
 
-The Marketer’s Dilemma is basically that the number of marketers buying ads and the number of ads being created are increasing much faster than the amount of attention available to capture. More ads mean more things shouting at consumers to buy. This leads to consumers paying less attention to ads. This decline of attention quality causes marketers to up their ad spend to grab more attention. Then ad costs swell as demand skyrockets in comparison to the fixed amount of attention available.
+The Marketer’s Dilemma is basically that the number of marketers buying ads and the number of ads being created are increasing much faster than the amount of attention available to capture. More ads mean more things shouting at consumers to buy. This leads to consumers paying less attention to ads. This decline of attention quality causes marketers to up their ad spend to grab more attention. Then ad costs swell as demand skyrockets in comparison to the shrinking amount of attention available.
 
 ## Why attention is decreasing
 
@@ -80,7 +80,7 @@ A quick study of 60 TV ads from the 1950s to the 2000s found that the amount of 
 
 These usually take the form of coupons, daily deals, rebates, and short-term price discounts. Consumers may hate ads but they still love a good deal.
 
-In 2000, American companies spent an equal $300 billion on advertising and promotions. In 2013, promotion spending ($630 billion) is now 2.5x larger than advertising spending (\$260 billion). Largely thanks to online daily deal sites like Groupon.
+In 2000, American companies spent an equal \$300 billion on advertising and promotions. In 2013, promotion spending (\$630 billion) is now 2.5x larger than advertising spending (\$260 billion). Largely thanks to online daily deal sites like Groupon.
 
 While offering consumer promotions does have a positive effect on short-term sales, it does not carry over into future sales and generally does not create a great perception by consumers of your brand. People stop buying once the sale stops.
 
@@ -184,7 +184,7 @@ Thales also conducts a similar study to understand why content gets shared and w
 
 **Results:**
 
-- Unsurprisingly, ads with a known brand are more like to be viewed.
+- Unsurprisingly, ads with a known brand are more likely to be viewed.
 
 - Ads with an unfamiliar brand are just as likely as a familiar one to be shared if it gets viewed.
 
@@ -208,10 +208,16 @@ Thales terms the process of creating content that allows for the mutual benefit 
 
 In advertiser symbiosis, the marketer has to understand the consumer’s needs and create content that allows the consumer to benefit personally. But remember, brands must remain self-interested by making sure they achieve their goals of persuasion or else they risk providing free entertainment for audiences that will never consider their products.
 
+<hr >
+
 📝 This post is a summary of a Harvard Working Paper. You can read the full 23-page paper [here](https://www.hbs.edu/faculty/Publication%20Files/14-055_2ef21e7e-7529-4864-b0f0-c64e4169e17f.pdf).
 
 <hr >
 
-_This post was originally released as an issue in **my product newsletter, The Product Person**._
+_This post was originally released as an issue in **my product newsletter, [The Product Person](https://theproductperson.com).**_
 
 If you got this far, you probably enjoyed it. So subscribe to my product newsletter 👉 **[here](https://theproductperson.com)**.
+
+<br />
+
+_Updated 31 May 2020_
