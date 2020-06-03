@@ -22,7 +22,7 @@ June 15.
 
 But things are a bit slow, because Life.
 
-- I just finished my 3rd year of college, so I've had to figure out how to spend my time this summer. Currently in the process of splitting time between [my newsletter](https://theproductperson.com) and HiNote.
+- I just finished my 3rd year of college, so I've had to figure out how to spend my time this summer. Currently in the process of splitting time between [my newsletter](https://theproductperson.com) and [HiNote](https://hinote.live).
 
 - Wyatt and Valentin have full time jobs. Now that the pandemic is lightening up, tasks from work are rolling back in.
 
