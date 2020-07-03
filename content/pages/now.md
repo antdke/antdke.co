@@ -6,9 +6,9 @@ socialImage: ''
 
 Since the start of **2020**, I've been...
 
-- 🚢 -- Shipping products. So far: [Product Checklist](https://productchecklist.co) // [Chatparty](https://www.producthunt.com/posts/chatparty) // and _more to come_...
+- 🚢 -- Shipping products. So far: [Product Checklist](https://www.producthunt.com/posts/product-checklist) // [Chatparty](https://www.producthunt.com/posts/chatparty) // [HiNote](https://hinote.live) and _more to come_...
 
-- 🛠️ -- Growing a community around [learning product skills](https://theproductperson.com) —Over 4,100 people at time of writing this!
+- 🛠️ -- Growing a community around [learning product skills](https://theproductperson.com) —Over 4,600 people at time of writing this!
 
 - 🚀 -- Helping NYU entrepreneurs start-up on the board of [The InnoVention Society](https://ivs.nyc).
 
@@ -16,4 +16,4 @@ Since the start of **2020**, I've been...
 
 Thanks [Derek](https://nownownow.com/about) & [Ryan](https://www.ryanckulp.com/now/) for the inspiration.
 
-_Last Updated: April 22, 2020_
+_Last Updated: July 2, 2020_
