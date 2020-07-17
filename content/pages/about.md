@@ -18,7 +18,7 @@ No part-time job. **Doing what I love.**
 
 My end goal is **generational wealth**.
 
-These days, I mostly code, [read](/pages/reading), [write](/), bike through New York City, and design products.
+These days, I mostly code, [read](/pages/reading), [write](/), bike through New York City, and [design products](/pages/projects).
 
 ## Fun Facts About Me
 
