@@ -4,7 +4,59 @@ template: 'page'
 socialImage: ''
 ---
 
-A collection of all my projects
+#### <span style="color:orange">**_A collection of all my projects._**</span>
+
+<!-- HINOTE -->
+
+## HiNote
+
+<br>
+<img src="https://i.ibb.co/DrS0Mpd/Stripe-Logo-transparent.png" style="border-radius:15px" height="250px">
+
+**What it is:** A virtual concerts platform for musicians. <br>
+**Launched:** June 2020 <br>
+**Still Active?** [Yes](https://hinote.live)
+
+#### Achievements:
+
+- _working on it..._
+
+<br>
+
+<!-- PRODUCT CHECKLIST -->
+
+## Product Checklist
+
+<br>
+<img src="https://i.ibb.co/z4TzRXj/pc-logo.png" style="border-radius:15px" height="250px">
+
+**What it is:** The best practices for building products —idea to launch. <br>
+**Launched:** June 14th 2020 <br>
+**Still Active?** [Yes](https://theproductperson.co)
+
+#### Achievements:
+
+- [Featured in Product Hunt](https://www.producthunt.com/posts/product-checklist) at top 3 of the day with 850+ upvotes
+- Gained 600,000+ pageviews in 1 month
+
+<br>
+
+<!-- CHATPARTY -->
+
+## Chatparty
+
+<br>
+<img src="https://i.ibb.co/rm0tyQb/ph-thumbnail.png" style="border-radius:15px" height="250px">
+
+**What it is:** A videochat app with a twist —no audio. <br>
+**Launched:** April. 20th 2020 <br>
+**Still Active?** [Yes](https://chatparty.co)
+
+#### Achievements:
+
+- Built in 15 days for [Product Hunt WFH Maker Festival](https://www.producthunt.com/makers-festival/wfh)
+- Featured in [Product Hunt](https://www.producthunt.com/posts/chatparty), [Hacker News](https://news.ycombinator.com/item?id=22916158), and [The Hustle](https://thehustle.co/04212020-silicon-valley-clubhouse/).
+- Gained 100+ users within 12 hours.
 
 <br>
 
@@ -16,7 +68,7 @@ A collection of all my projects
 <img src="https://i.ibb.co/D4bQwHf/The-Product-Person-Logo.png" style="border-radius:15px" height="250px">
 
 **What it is:** A weekly newsletter on product development <br>
-**Started:** Nov. 3rd 2019 <br>
+**Launched:** Nov. 3rd 2019 <br>
 **Still Active?** [Yes](https://theproductperson.com)
 
 #### Achievements:
