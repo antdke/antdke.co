@@ -11,7 +11,7 @@ socialImage: '/projects-social-share.png'
 ## HiNote
 
 <br>
-<img src="https://i.ibb.co/DrS0Mpd/Stripe-Logo-transparent.png" style="border-radius:15px" height="250px">
+<a href="https://hinote.live"><img src="https://i.ibb.co/DrS0Mpd/Stripe-Logo-transparent.png" style="border-radius:15px" height="250px"></a>
 
 **What it is:** A virtual concerts platform for musicians. <br>
 **Launched:** June 2020 <br>
@@ -28,7 +28,7 @@ socialImage: '/projects-social-share.png'
 ## Product Checklist
 
 <br>
-<img src="https://i.ibb.co/z4TzRXj/pc-logo.png" style="border-radius:15px" height="250px">
+<a href="https://productchecklist.co"><img src="https://i.ibb.co/z4TzRXj/pc-logo.png" style="border-radius:15px" height="250px"></a>
 
 **What it is:** The best practices for building products —idea to launch. <br>
 **Launched:** June 14th 2020 <br>
@@ -46,7 +46,7 @@ socialImage: '/projects-social-share.png'
 ## Chatparty
 
 <br>
-<img src="https://i.ibb.co/rm0tyQb/ph-thumbnail.png" style="border-radius:15px" height="250px">
+<a href="https://chatparty.co"><img src="https://i.ibb.co/rm0tyQb/ph-thumbnail.png" style="border-radius:15px" height="250px"></a>
 
 **What it is:** A videochat app with a twist —no audio. <br>
 **Launched:** April. 20th 2020 <br>
@@ -65,7 +65,7 @@ socialImage: '/projects-social-share.png'
 ## The Product Person
 
 <br>
-<img src="https://i.ibb.co/D4bQwHf/The-Product-Person-Logo.png" style="border-radius:15px" height="250px">
+<a href="https://theproductperson.com"><img src="https://i.ibb.co/D4bQwHf/The-Product-Person-Logo.png" style="border-radius:15px" height="250px"></a>
 
 **What it is:** A weekly newsletter on product development <br>
 **Launched:** Nov. 3rd 2019 <br>
