@@ -21,6 +21,10 @@ module.exports = {
       path: '/pages/about',
     },
     {
+      label: '📦 Projects',
+      path: '/pages/projects',
+    },
+    {
       label: "📚 Books I'm Reading",
       path: '/pages/reading',
     },
