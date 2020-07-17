@@ -1,7 +1,7 @@
 ---
 title: 'Projects 📦'
 template: 'page'
-socialImage: ''
+socialImage: '/projects-social-share.png'
 ---
 
 #### <span style="color:orange">**_A collection of all my projects._**</span>
