@@ -32,7 +32,7 @@ socialImage: '/projects-social-share.png'
 
 **What it is:** The best practices for building products —idea to launch. <br>
 **Launched:** June 14th 2020 <br>
-**Still Active?** [Yes](https://theproductperson.co)
+**Still Active?** [Yes](https://productchecklist.co)
 
 #### Achievements:
 
