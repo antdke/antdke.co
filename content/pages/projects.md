@@ -88,9 +88,9 @@ socialImage: '/projects-social-share.png'
 
 **What it is:** A productized content-marketing service for Reddit <br>
 **Launched:** Oct. 26th 2019 <br>
-**Still Active?** [No](https://theproductperson.com)
+**Still Active?** [No](https://heyribbit.com)
 
 #### Achievements:
 
 - Increased revenue to ~\$1000 MRR in [less than 4 weeks.](https://twitter.com/antdke/status/1257053868682358787)
-- Hired and managed to contract social media marketers.
+- Hired and managed 2 contract marketers.
