@@ -76,3 +76,21 @@ socialImage: '/projects-social-share.png'
 - Earned 2,000 subscribers in 24 hours of launch.
 - Wrote several popular product articles, like this one on [Microcopy](https://twitter.com/antdke/status/1263130017598406657?s=20).
 - Increased my network by like 10,000%
+
+<br>
+
+<!-- RIBBIT -->
+
+## Ribbit
+
+<br>
+<a href="https://heyribbit.com"><img src="https://i.ibb.co/wJGMYsP/ribbit-ph-thumbnai-2.gif" style="border-radius:15px" height="250px"></a>
+
+**What it is:** A productized content-marketing service for Reddit <br>
+**Launched:** Oct. 26th 2019 <br>
+**Still Active?** [No](https://theproductperson.com)
+
+#### Achievements:
+
+- Increased revenue to ~\$1000 MRR in [less than 4 weeks.](https://twitter.com/antdke/status/1257053868682358787)
+- Hired and managed to contract social media marketers.
