@@ -6,6 +6,8 @@ socialImage: '/projects-social-share.png'
 
 #### <span style="color:orange">**_A collection of all my projects._**</span>
 
+✨ If you prefer, here's [my resume](https://drive.google.com/file/d/1tLzKF1aV5wbcxAk-NJ6xizAi_E2gmNNy/view?usp=sharing)!✨
+
 <!-- HINOTE -->
 
 ## HiNote
