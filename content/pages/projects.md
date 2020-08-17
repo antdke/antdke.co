@@ -8,6 +8,43 @@ socialImage: '/projects-social-share.png'
 
 (✨ If you prefer, here's [my resume](https://drive.google.com/file/d/14qazvOehCRUIBD5woNXazoiS3fo1l6fZ/view?usp=sharing)!✨)
 
+<!-- Lovewall -->
+
+## Lovewall
+
+<br>
+<a href="https://lovewall.co"><img src="https://i.ibb.co/wRvxPPm/ph-thumbnail.png" style="border-radius:15px" height="250px"></a>
+
+**What it is:** A simple social proof tool to show off short customer reviews.<br>
+**Launched:** August 2020 <br>
+**Still Active?** [Yes](https://producthunt.com/posts/lovewall)
+
+#### Achievements:
+
+- My first "B2B SaaS" product
+- Developed a [product validation process](/posts/first-saas).
+
+<br>
+
+<!-- PM News -->
+
+## PM News
+
+<br>
+<a href="https://pm.news"><img src="https://i.ibb.co/gmv4ycT/PM-News-PH-thumbnail.gif" style="border-radius:15px" height="250px"></a>
+
+**What it is:** Monthly interviews w/ product people to extract their career insights <br>
+**Launched:** August 2020 <br>
+**Still Active?** [Yes](https://pm.news)
+
+#### Achievements:
+
+- Interviewed product people like Chris Messina (inventor of the hashtag), Luba Yudasina (PM at Airbnb), and Ryan Hoover (Founder of Product Hunt)
+- Increased free subscriber base by 200% week-over-week
+- Gained \$500 gross revenue and \$250 MRR in first 2 weeks
+
+<br>
+
 <!-- HINOTE -->
 
 ## HiNote
