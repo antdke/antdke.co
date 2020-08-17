@@ -58,7 +58,8 @@ socialImage: '/projects-social-share.png'
 
 #### Achievements:
 
-- _working on it..._
+- Explored video APIs like Daily.co, Mux, and AWS.
+- Had artist acquisition growth rate of 20% week-over-week in 1st month
 
 <br>
 
