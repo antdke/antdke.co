@@ -6,7 +6,7 @@ socialImage: '/projects-social-share.png'
 
 ### <span style="color:orange">**_A collection of all my projects._**</span>
 
-(✨ If you prefer, here's [my resume](https://drive.google.com/file/d/14qazvOehCRUIBD5woNXazoiS3fo1l6fZ/view?usp=sharing)!✨)
+(✨ If you prefer, here's [my resume](http://bit.ly/antdke-resume)!✨)
 
 <!-- Lovewall -->
 
