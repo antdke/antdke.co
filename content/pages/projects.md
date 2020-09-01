@@ -40,7 +40,6 @@ socialImage: '/projects-social-share.png'
 #### Achievements:
 
 - Interviewed product people like Chris Messina (inventor of the hashtag), Luba Yudasina (PM at Airbnb), and Ryan Hoover (Founder of Product Hunt)
-- Increased free subscriber base by 200% week-over-week
 - Gained \$500 gross revenue and \$250 MRR in first 2 weeks
 
 <br>
