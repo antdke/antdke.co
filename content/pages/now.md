@@ -4,16 +4,18 @@ template: 'page'
 socialImage: ''
 ---
 
-Since the start of **2020**, I've been...
+Lately, I've been...
 
-- 🚢 -- Shipping products. So far: [Product Checklist](https://www.producthunt.com/posts/product-checklist) // [Chatparty](https://www.producthunt.com/posts/chatparty) // [HiNote](https://hinote.live) and _more to come_...
+- 📦 -- Doing product at [Blissfully.com](https://blissfully.com)
 
-- 🛠️ -- Growing a community around [learning product skills](https://theproductperson.com) —Over 4,600 people at time of writing this!
+- 🛠️ -- Writing a newsletter around [learning product skills](https://theproductperson.com) —Over 5,000 people at time of writing this!️
 
-- 🚀 -- Helping NYU entrepreneurs start-up on the board of [The InnoVention Society](https://ivs.nyc).
+- 🤫 -- Working on something new!
 
-- 🧘 -- Practicing gratitude & mindfulness
+- 💰 -- Saving up \$ for graduation this summer.
+
+- 🧘 -- Practicing mindfulness & appreciating life.
 
 Thanks [Derek](https://nownownow.com/about) & [Ryan](https://www.ryanckulp.com/now/) for the inspiration.
 
-_Last Updated: July 2, 2020_
+_Last Updated: Dec 24, 2020 🎄_

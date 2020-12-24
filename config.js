@@ -8,7 +8,7 @@ module.exports = {
     "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City",
   copyright: '© All rights reserved - Anthony Diké',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-143868406-2',
   useKatex: false,
   menu: [
