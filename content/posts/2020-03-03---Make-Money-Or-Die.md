@@ -30,7 +30,7 @@ I don't know exactly how much my family is <span style="color:gold">**worth.**</
 When asked, I'd just say I'm (lower) middle class. I never asked my parents. I just 'got it' from context clues.
 
 **For context:**
-My mom immigrated (with me) to the US from Nigeria in 2001 for work.
+My parents immigrated (with me) to the US from Nigeria in 2001 for work.
 We live in the South Bronx. My parents argue a lot; mostly over nothing. My dad has [high blood pressure](https://www.reuters.com/article/us-health-heart-finances/money-troubles-tied-to-higher-risk-of-heart-disease-for-african-americans-idUSKCN1Q41UV) and diabetes (can't remember which type). And according to her doctor, my mom's stress levels are so high, [certain foods](http://sitn.hms.harvard.edu/flash/2013/could-a-hidden-allergy-be-causing-your-migraines/) now give her migraines. No more rice or bread.
 
 Given these context clues, I could tell that we aren't exactly "financially comfortable".
@@ -53,7 +53,7 @@ Now, I'm not one to let my circumstances define or label me, but numbers in aggr
 
 ## Resolve
 
-You and I, and I say _you and I_ because chances are we're in the [bottom 50](https://wid.world/country/usa/) together, are either on the cusp of dying or we're already dead. Social death I mean. Economic death as well.
+You and I, and I say _you and I_ because chances are we're in the [bottom 50](https://wid.world/country/usa/) together, are either on the cusp of dying or we're already dead. Economic death I mean.
 
 So, what are we going to do to ~~survive~~ thrive?
 
