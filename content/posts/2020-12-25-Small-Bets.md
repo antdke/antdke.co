@@ -41,4 +41,4 @@ I'm taking this small bet for the next few months (at least until I graduate in 
 
 PS: My system for jotting down thoughts everyday will make this a lot easier :)
 
-![A screen recording of my daily thoughts in Apple Notes](https://i.bb.co/qFVtbXQ/AppleNoteThoughts.gif)
+![A screen recording of my daily thoughts in Apple Notes](https://i.ibb.co/qFVtbXQ/28035-F37-5-C37-43-AF-98-CE-D6174307-F939.gif)
