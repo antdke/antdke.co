@@ -6,7 +6,7 @@ template: 'post'
 category: 'Work'
 description: "I'm taking a 'small bet' on myself."
 date: '2020-12-25'
-socialImage: ''
+socialImage: '/small-bets.png'
 ---
 
 I like [Daniel Vassallo's](https://twitter.com/dvassallo) idea on taking "small bets."
