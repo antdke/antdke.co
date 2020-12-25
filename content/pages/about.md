@@ -16,7 +16,7 @@ I love **building products**.
 
 My end goal is **generational wealth**.
 
-These days, I mostly code, [read](/pages/reading), [write](/), bike through New York City, and [design products](/pages/projects).
+These days, I mostly code, [read](/pages/reading), [write](/), bike through New York City, and [build products](/pages/projects).
 
 ## Fun Facts About Me
 
