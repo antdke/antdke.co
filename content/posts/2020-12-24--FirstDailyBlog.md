@@ -11,7 +11,9 @@ socialImage: ''
 
 Pat Walls' [blog](https://patwalls.com/this-new-blog) inspired me. I'll write daily starting today.
 
-## The first blog starts below:
+The first blog starts below:
+
+--
 
 Lots of courses are being made.
 
