@@ -3,7 +3,7 @@ title: 'Small Bets'
 slug: 'small-bets'
 draft: false
 template: 'post'
-category: 'Life'
+category: 'Work'
 description: "I'm taking a 'small bet' on myself."
 date: '2020-12-25'
 socialImage: ''
@@ -16,6 +16,8 @@ Calling it a small bet downplays the ambitious plan in your mind. — kinda lika
 Your mind is more receptive to take a "small" bet. So you'll be more likely to at least start. And starting is more than half the battle. Once you start, you build momentum. And with momentum, it's harder to stop or even sabotage yourself to stop.
 
 Taking a small bet is all about getting to the point where you have momentum.
+
+# My Small Bet
 
 On that note, I want to take a small bet.
 
@@ -39,6 +41,8 @@ I'm taking this small bet for the next few months (at least until I graduate in 
 
 ---
 
-PS: My system for jotting down thoughts everyday will make this a lot easier :)
+PS: Luckily, my system for jotting down thoughts everyday will make this a lot easier :)
 
-![A screen recording of my daily thoughts in Apple Notes](https://i.ibb.co/qFVtbXQ/28035-F37-5-C37-43-AF-98-CE-D6174307-F939.gif)
+<br />
+<img src="https://i.ibb.co/qFVtbXQ/28035-F37-5-C37-43-AF-98-CE-D6174307-F939.gif" alt="A screen recording of my daily thoughts in Apple Notes" width="350">
+<br />
