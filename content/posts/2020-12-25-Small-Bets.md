@@ -11,7 +11,7 @@ socialImage: ''
 
 I like [Daniel Vassallo's](https://twitter.com/dvassallo) idea on taking "small bets."
 
-Calling it a small bet downplays the ambitious plan in your mind. — kinda lika a trojan horse.
+Calling it a small bet downplays the ambitious plan in your mind— kind of like a trojan horse.
 
 Your mind is more receptive to take a "small" bet. So you'll be more likely to at least start. And starting is more than half the battle. Once you start, you build momentum. And with momentum, it's harder to stop or even sabotage yourself to stop.
 
