@@ -1,7 +1,7 @@
 ---
 title: 'Endings Are Okay'
 slug: 'endings-are-okay'
-draft: true
+draft: false
 template: 'post'
 category: 'Life'
 description: "It's 7am and I just helped my girlfriend get into an Uber so she could get back home to Hawaii for Christmas."
