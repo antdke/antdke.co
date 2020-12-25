@@ -9,7 +9,7 @@ date: '2020-12-25'
 socialImage: ''
 ---
 
-It’s 7am and I just helped my girlfriend into an Uber so she could go back home to Hawaii for Christmas.
+It’s 7am and I just helped my girlfriend into an Uber so she could get back home to Hawaii for Christmas.
 
 It’s raining in New York.
 
