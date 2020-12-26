@@ -17,7 +17,7 @@ Your mind is more receptive to taking a "small" bet. So you'll be more likely to
 
 Taking a small bet is all about getting to the point where you have momentum.
 
-# My Small Bet
+## My Small Bet
 
 On that note, I want to take a small bet.
 
