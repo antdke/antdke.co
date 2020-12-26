@@ -22,9 +22,12 @@ In the film, a women tells a story about a fish.
 
 She says:
 
-“I heard this story about a fish, he swims up to an older fish and says: ‘I’m trying to find this thing they call the ocean.’ ‘The ocean?’ the older fish says, ‘that’s what you’re in right now.’ ‘This’, says the young fish, ‘this is water. What I want is the ocean!’”
+<blockquote>
+I heard this story about a fish, he swims up to an older fish and says: "I’m trying to find this thing they call the ocean." "The ocean?" the older fish says, "that’s what you’re in right now." "This", says the young fish, "this is water. What I want is the ocean!"
+</blockquote>
+<br />
 
-I think I’m the fish.
+**I think I’m that young fish.**
 
 <br />
 <img src="https://media.giphy.com/media/5xUPTCgyhLoSQ/giphy.gif" alt="fish in water" border="0" width="500">
@@ -33,13 +36,13 @@ I think I’m the fish.
 
 Let me explain:
 
-My life goal is generational wealth. That’s my ocean.
+My life goal is <span style="color:green">**generational wealth.**</span> That’s my <span style="color:blue">**ocean.**</span>
 
 And so lately my mindset has been to do that 1 project, spend that 1 year, or do that 1 thing that can just get me there.
 
-What I realized is that I’m overlooking much of the “present”
+What I realized is that I’m overlooking much of the “present.”
 
-Another analogy I can use is sports:
+Another analogy I can use is baseball:
 
 <br />
 <img src="https://media.giphy.com/media/XcLaBNbSEekuG1ioPf/giphy.gif" alt="home run" border="0" width="500">
@@ -48,7 +51,7 @@ Another analogy I can use is sports:
 
 I’m looking so much for the home run, I’m ignoring that I’m already in the game and I have to play the whole game in order to get chance at the home run.
 
-Or if you’re more of a basketball person (as I am)
+Or if you’re more of a basketball person (as I am):
 
 <br />
 <img src="https://media.giphy.com/media/j44pKzZETTrfHH6icS/giphy.gif" alt="home run" border="0" width="500">
@@ -61,7 +64,7 @@ I have to realize that the ocean (my destination) is part of the water (my life)
 
 **They’re not separate events.**
 
-I can only get there once I realize I’m already there.
+I can only get there once I realize I’m already "there."
 
 If that young fish hates “the water,” then it’ll probably hate the ocean once it gets there. (That is, if the young fish ever accepts the fact that it’s already there)
 
@@ -75,4 +78,4 @@ The point when (I’ll realize) I’ve reached generational wealth will be just 
 
 And if I absolutely hated all the other months, days, years, and seconds of my life, then would it have been worth it?
 
-I have to accept that I’m already in the ocean.
+I have to accept that I’m already in the <span style="color:blue">**ocean.**</span>
