@@ -72,7 +72,7 @@ If I hate my life then there’s a chance I’ll hate my destination.
 
 This is not to say that “living my life is the _only_ destination” or that I shouldn’t have goals.
 
-It’s to say that the point in life in which you reach your goal is just that _a point_.
+It’s to say that the point in life where you reach your goal is just that: _a point_.
 
 The point when (I’ll realize) I’ve reached generational wealth will be just a month, day, year, and second of my life. It’s not a 2nd life.
 
