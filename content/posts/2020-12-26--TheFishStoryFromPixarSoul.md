@@ -54,11 +54,11 @@ I’m looking so much for the home run, I’m ignoring that I’m already in the
 Or if you’re more of a basketball person (as I am):
 
 <br />
-<img src="https://media.giphy.com/media/j44pKzZETTrfHH6icS/giphy.gif" alt="home run" border="0" width="500">
+<img src="https://media.giphy.com/media/j44pKzZETTrfHH6icS/giphy.gif" alt="game winning shot" border="0" width="500">
 
 <br />
 
-I’m looking so much for that game-winning buzzer beater contested 3-pointer that I’m overlooking the other 48 minutes of play I have to go through to get to that point.
+I’m looking so much for that game-winning, buzzer-beating contested 3-point shot that I’m overlooking the other 48 minutes of play I have to go through to get to that point.
 
 I have to realize that the ocean (my destination) is part of the water (my life).
 
