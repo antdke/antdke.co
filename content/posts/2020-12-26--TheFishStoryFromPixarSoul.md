@@ -38,9 +38,9 @@ Let me explain:
 
 My life goal is <span style="color:green">**generational wealth.**</span> That’s my <span style="color:blue">**ocean.**</span>
 
-And so lately my mindset has been to do that 1 project, spend that 1 year, or do that 1 thing that can just get me there.
+And so lately my mindset has been to do that 1 project, spend that 1 year, or do that _1 thing_ that can just get me there.
 
-What I realized is that I’m overlooking much of the “present.”
+What I realized is that I’m overlooking much of the present.
 
 Another analogy I can use is baseball:
 
@@ -49,7 +49,7 @@ Another analogy I can use is baseball:
 
 <br />
 
-I’m looking so much for the home run, I’m ignoring that I’m already in the game and I have to play the whole game in order to get chance at the home run.
+I’m looking so much for the home run, I’m ignoring that I’m already in the game and I have to play the whole game in order to get a chance at the home run.
 
 Or if you’re more of a basketball person (as I am):
 
