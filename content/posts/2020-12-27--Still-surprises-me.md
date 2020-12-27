@@ -18,4 +18,4 @@ This email I received about [what I wrote yesterday](https://antdke.co/posts/pix
 
 <br />
 
-(Btw, feel free to reach out anytime to chat about something I wrote, a product you’re working on, or anything really -> [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu))
+(Btw, feel free to reach out anytime to chat about something I wrote, a product you’re working on, or anything really -> [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)) 😁
