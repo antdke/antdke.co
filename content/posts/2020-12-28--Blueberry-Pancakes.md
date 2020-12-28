@@ -43,7 +43,7 @@ They were delicious.
 
 **Funny end story:** At Penelope, a woman’s tiny dog jumped out of its bag and ran off.
 
-She chased it down the sidewalk. But, tiny dog outpaced her.
+She chased it down the sidewalk. But, the tiny dog outpaced her.
 
 Luckily, a guy in a yellow coat was ahead. He squatted and recovered the dog like a fumbled football.
 
