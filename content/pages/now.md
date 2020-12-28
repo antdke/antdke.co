@@ -8,7 +8,7 @@ Lately, I've been...
 
 - 📦 -- Doing product at [Blissfully.com](https://blissfully.com)
 
-- 🛠️ -- Writing a newsletter around [learning product skills](https://theproductperson.com) —Over 5,000 people at time of writing this!️
+- 🛠️ -- Writing a newsletter around [learning product skills](https://theproductperson.com) — Over 5,000 subscribed readers at time of writing this!️
 
 - 🤫 -- Working on something new!
 
