@@ -97,7 +97,7 @@ Ex:
 
 There's probably plenty of arguments for _not_ hitting your kids. But this post is me reasoning from [first principles](https://fs.blog/2018/04/first-principles/) why some parents consider hitting their kids to be an option.
 
-I'm not entirely sure if I'll liberally hit my kids when I have some of my own. But like I said, in the right circumstances, I can see why it makes sense.
+I'm not entirely sure if I'll liberally hit my kids when I have some of my own. But like I said, in the right circumstances, I can see why it makes sense. But it's not a great parenting option.
 
 "Spare the rod and spoil the child" makes a lot more sense now.
 
