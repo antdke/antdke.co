@@ -1,10 +1,10 @@
 ---
 title: "It's Okay To Hit Your Kids"
-slug: 'hit-your-kids'
+slug: 'okay-to-hit-your-kids'
 draft: false
 template: 'post'
 category: 'Life'
-description: 'This is a test post. I want to see how this shit works.'
+description: 'Earlier today, my youngest sister (8 y/o) was sulking and acting grumpy while we were out. I eventually gave her a whack on the head to make her behave. In that moment, I understood why parents hit their kids.'
 date: '2020-12-27'
 socialImage: '/hit-kids.jpeg'
 ---
