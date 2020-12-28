@@ -9,7 +9,7 @@ date: '2020-12-28'
 socialImage: '/blueberry-pancakes.jpg'
 ---
 
-I felt like taking a walk today.
+I felt like taking a walk this morning.
 
 I opened Google Maps and looked up "breakfast" and chose this nearby diner called [Penelope](https://goo.gl/maps/TCqe8XJAFCwmqcow5).
 
