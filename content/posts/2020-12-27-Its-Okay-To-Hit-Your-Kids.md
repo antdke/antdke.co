@@ -1,6 +1,6 @@
 ---
-title: "It's Okay To Hit Your Kids"
-slug: 'okay-to-hit-your-kids'
+title: 'Is It Okay To Hit Your Kids?'
+slug: 'is-it-okay-to-hit-your-kids'
 draft: false
 template: 'post'
 category: 'Life'
@@ -95,9 +95,9 @@ Ex:
 
 ## Will I Hit My Kids?
 
-There's probably plenty of arguments for _not_ hitting your kids. But this post is me reasoning from [first principles](https://fs.blog/2018/04/first-principles/) why hitting your kids _can_ be an option.
+There's probably plenty of arguments for _not_ hitting your kids. But this post is me reasoning from [first principles](https://fs.blog/2018/04/first-principles/) why some parents consider hitting their kids to be an option.
 
-I'm not entirely sure if I'll liberally hit my kids when I have some of my own. But like I said, in the right circumstances, it's a potential option.
+I'm not entirely sure if I'll liberally hit my kids when I have some of my own. But like I said, in the right circumstances, I can see why it makes sense.
 
 "Spare the rod and spoil the child" makes a lot more sense now.
 
