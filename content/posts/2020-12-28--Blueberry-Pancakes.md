@@ -30,7 +30,7 @@ After my walking montage, I arrived at Penelope's outdoor seating camp site.
 
 <br />
 
-Yes, it was cold out, but the pancakes warmed me out.
+Yes, it was cold out, but the pancakes warmed me up.
 
 I haven't had blueberry pancakes in years.
 
