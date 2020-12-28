@@ -17,7 +17,7 @@ Long story short, I eventually had to give my youngest sister a little whack on 
 
 And, in that moment: I got a little glimpse into why some parents hit their kids.
 
-Before I go any further, I’m 21. So farrrr from parenthood. This is a sliver of insight based on my experience as the oldest brother (and having once been a kid myself).
+Before I go any further, I’m 21. So, farrrr from parenthood. This is a sliver of insight based on my experience as the oldest brother (and having once been a kid myself).
 
 ## Kid Psychology
 
