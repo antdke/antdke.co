@@ -72,4 +72,4 @@ One aphorism I constantly go back to is a [saying](https://twitter.com/naval/sta
 
 <blockquote>Impatience with actions, patience with results.</blockquote>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Impatience with actions, patience with results. <a href="https://t.co/d5BOxcbLcg">https://t.co/d5BOxcbLcg</a></p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1008533213919133697?ref_src=twsrc%5Etfw">June 18, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br />
