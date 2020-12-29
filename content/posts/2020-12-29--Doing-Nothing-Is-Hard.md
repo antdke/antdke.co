@@ -4,9 +4,9 @@ slug: 'doing-nothing-is-hard'
 draft: false
 template: 'post'
 category: 'Life'
-description: '...'
+description: "Sometimes, when I set big goals, I get anxious when I haven't completed them yet. But I've learned that I have to be patience and wait and just stick with the plan. Action for the sake of action is usually not a good idea."
 date: '2020-12-29'
-socialImage: ''
+socialImage: '/doing-nothing-is-hard.png'
 ---
 
 I'm a fan of setting long term big goals.
