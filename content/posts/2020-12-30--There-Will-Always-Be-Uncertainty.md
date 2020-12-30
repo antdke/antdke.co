@@ -4,7 +4,7 @@ slug: 'uncertainty'
 draft: false
 template: 'post'
 category: 'Life'
-description: "A big reason why people are afraid to start is because of they're unsure of what will happen. There will always be uncertainty. The trick is to dive in and reduce the uncertainty yourself."
+description: "A big reason why people are afraid to start is because they're unsure of what will happen. There will always be uncertainty. The trick is to dive in and reduce the uncertainty yourself."
 date: '2020-12-30'
 socialImage: '/uncertainty.png'
 ---
