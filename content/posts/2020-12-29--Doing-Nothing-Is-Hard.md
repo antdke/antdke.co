@@ -37,7 +37,7 @@ I forget that I already have a plan in motion— a system in place.
 I get anxious.
 
 - "Do I have enough time?"
-- "Should I not be working right now?"
+- "Shouldn't I be working right now?"
 - "Why isn't everything happening for me right now?"
 
 Thankfully, after much self-reflection, in the case of goal-anxiety, I've found that doing _nothing_ is the best option.
