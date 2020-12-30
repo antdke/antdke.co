@@ -21,7 +21,7 @@ If my goal is to ship a product, then it's the moments when I'm not actively typ
 
 Or if it's making money, then it's the moments when I'm not talking to customers or recieving payments.
 
-Or if it's a life goal (like generation wealth), then it's _not_ having the wealth already at this very moment.
+Or if it's a life goal (like generation wealth), then it's not having the wealth already at _this_ very moment.
 
 ## Lulls make me anxious
 
