@@ -21,11 +21,11 @@ In 2021, I will write a blog post every day.
 
 # FAQs
 
-**Do you have a plan for what you'll write?**
+**1. Do you have a plan for what you'll write?**
 
 No plan. Whatever comes to mind :) Could be about [product strategy](https://antdke.co/posts/microcopy), giving [advice](https://antdke.co/posts/uncertainty) to myself, or just [what I had for breakfast](https://antdke.co/posts/blueberry-pancakes). Literally anything.
 
-**Why do this?**
+**2. Why do this?**
 
 Because I want to:
 
