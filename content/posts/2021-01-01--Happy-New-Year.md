@@ -1,6 +1,6 @@
 ---
 title: 'Happy New Year!'
-slug: 'happy-new-year'
+slug: 'happy-new-year-2021'
 draft: false
 template: 'post'
 category: 'Life'
