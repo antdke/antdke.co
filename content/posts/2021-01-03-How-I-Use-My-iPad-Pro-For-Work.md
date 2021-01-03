@@ -6,7 +6,7 @@ template: 'post'
 category: 'Pro Tips'
 description: "I use an iPad Pro as my main work machine. It's great, but too fun. Here are a few pro tips I've learned on how to not get distracted if you also use an iPad Pro for work."
 date: '2021-01-03'
-socialImage: '/ipad-pro.jpg'
+socialImage: '/ipad-pro-for-work.png'
 ---
 
 I use an iPad Pro w/ the magic keyboard as my main work horse.
