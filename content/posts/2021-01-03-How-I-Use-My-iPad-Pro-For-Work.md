@@ -1,6 +1,6 @@
 ---
-title: 'How I Use My iPad Pro For Work'
-slug: 'ipad-pro-for-work'
+title: 'How I Use My iPad For Work'
+slug: 'ipad-for-work'
 draft: false
 template: 'post'
 category: 'Pro Tips'
