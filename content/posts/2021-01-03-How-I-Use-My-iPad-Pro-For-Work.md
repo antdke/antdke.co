@@ -16,7 +16,7 @@ I use an iPad Pro as my main work horse.
 
 <br />
 
-Using the iPad Pro for work has it’s pros and cons. Here’s a few of them:
+Using the iPad Pro for work has its pros and cons. Here’s a few of them:
 
 Pros:
 
