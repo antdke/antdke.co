@@ -4,7 +4,7 @@ slug: 'grindstone-with-gf'
 draft: false
 template: 'post'
 category: 'Random'
-description: 'My girlfriend and I are 5,000 miles apart.'
+description: 'My girlfriend and I are 5,000 miles apart. Today we Facetimed and played our favorite mobile game together.'
 date: '2021-01-02'
 socialImage: ''
 ---
