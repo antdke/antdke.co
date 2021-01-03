@@ -51,7 +51,7 @@ If you’re hardcore, you can use these tips in addition. I currently don’t us
 
 ## Zen Mode
 
-If extreme mode wasn’t enough for ya (bless your soul) then you can try this ultimate solution. But I warn you, it isn’t for the faint of heart.
+If extreme mode isn’t enough for ya (bless your soul) then you can try this ultimate solution. But I warn you, it's not for the faint of heart.
 
 - Turn your iPad/iPhone off
 - Put it 1-2 closed doors away from you
