@@ -9,7 +9,7 @@ date: '2021-01-03'
 socialImage: '/ipad-pro-for-work.png'
 ---
 
-I use an iPad Pro w/ the magic keyboard as my main work horse.
+I use an iPad Pro as my main work horse.
 
 <br />
 <img src="/ipad-pro.jpg" alt="The 2020 iPad Pro with Magic Keyboard & Apple Pencil" border="0" width="600">
