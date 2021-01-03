@@ -18,13 +18,13 @@ I use an iPad Pro as my main work horse.
 
 Using the iPad Pro for work has its pros and cons. Here’s a few of them:
 
-Pros:
+**Pros:**
 
 - It’s blazing fast and has iPhone level fluidity
 - The ability to use/not use the keyboard adds mobility and flexibility
-- Apple Pen is a joy to use for sketching & notes
+- Apple Pencil is a joy to use for sketching & notes
 
-Cons:
+**Cons:**
 
 - I’m two swipes away from any distracting app (like on the iPhone)
 - It’s too fun
