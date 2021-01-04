@@ -6,7 +6,7 @@ template: 'post'
 category: 'Life'
 description: 'Going to start eating healthier to stay on top of my game. You should too!'
 date: '2021-01-04'
-socialImage: ''
+socialImage: '/greens.jpg'
 ---
 
 <br />
