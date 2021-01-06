@@ -4,7 +4,7 @@ slug: 'drink-more-water'
 draft: false
 template: 'post'
 category: 'Health'
-description: '...'
+description: 'Going to start drinking 100 oz of water a day.'
 date: '2021-01-05'
 socialImage: '/water.jpg'
 ---
