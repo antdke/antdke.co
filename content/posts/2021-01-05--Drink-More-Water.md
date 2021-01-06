@@ -24,6 +24,6 @@ The price of being hydrated.
 (I use this 20.3 oz reusable bottle. So I'll only need 5 bottles a day.)
 
 <br />
-<img src="/20oz.jpg" alt="A bowl of salad" border="0" width="600">
+<img src="/20oz.jpg" alt="My water bottle" border="0" width="600">
 
 <br />
