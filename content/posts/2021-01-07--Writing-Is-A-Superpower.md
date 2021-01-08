@@ -4,7 +4,7 @@ slug: 'writing-is-a-superpower'
 draft: false
 template: 'post'
 category: 'Life'
-description: "Today, I had to give a UX research presentation to my boss. I didn't have a slide-deck but I had some notes I took throughtout my research. They saved the day."
+description: "Today, I gave a UX research presentation to my boss. I didn't have a slide-deck but I had some notes I took throughtout my research. They saved the day."
 date: '2021-01-07'
 socialImage: '/writing-power.png'
 ---
@@ -14,7 +14,7 @@ socialImage: '/writing-power.png'
 
 <br />
 
-Today, I had to give a UX research presentation to my boss.
+Today, I gave a UX research presentation to my boss.
 
 The meeting was at 6:05pm and I didn’t have enough time to create presentation visuals using the research I spent all day doing.
 
