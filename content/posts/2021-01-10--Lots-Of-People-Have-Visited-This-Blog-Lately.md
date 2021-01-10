@@ -9,7 +9,7 @@ date: '2021-01-10'
 socialImage: '/top-of-google-pixar-soul-cover.png'
 ---
 
-Someone on Twitter pointed out to me that if you Google “The meaning of the Fish story from Soul” then I’m one of the top results.
+Someone on Twitter pointed out to me that if you Google “The meaning of the fish story from Soul” then [my piece](https://antdke.co/posts/pixar-soul) is one of the top results.
 
 In fact, if you just Google "fish story in soul", I'm the #1 result!
 
