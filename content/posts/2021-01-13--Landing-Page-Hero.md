@@ -25,7 +25,7 @@ Here are a few ways you can improve it and keep visitors on your site.
 
 In your header, you need to state **the value you provide**.
 
-A way to do this is to state how your product solve their problem better than competitors or no solution at all.
+A way to do this is to state how your product solves their problem better than competitors or no solution at all.
 
 Then you add a hook: Something that wows OR something that addresses an objection.
 
