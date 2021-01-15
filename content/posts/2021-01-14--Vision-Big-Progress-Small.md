@@ -4,7 +4,7 @@ slug: "vbps"
 draft: false
 template: "post"
 category: "Life"
-description: "..."
+description: "Keep your goals big. But, expect progress to be small."
 date: "2021-01-14"
 socialImage: "/vbps-cover.png"
 ---
