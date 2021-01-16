@@ -48,4 +48,12 @@ Basically, that experiment proved that a change in one's environment will lead t
 
 So I'm confident the results of our little expiriment will be positive.
 
+Here's her reply:
+
+<img src="/babenotbro3.jpg" alt="" border="0" width="400">
+
+<br />
+
+And the expiriment begins...
+
 <br />
