@@ -4,7 +4,7 @@ slug: "crawl-walk-run"
 draft: false
 template: "post"
 category: "Life"
-description: "..."
+description: "The best way to go big is to start small."
 date: "2021-01-18"
 socialImage: "/cwr.png"
 ---
