@@ -17,7 +17,7 @@ I was always a hard worker. I would generate my own luck through action.
 
 But before I had direction, it was hard for me to know _why_ I was working hard.
 
-I would have lucky opportunities come my way, from my actions, but I was never 100% sure what to do with.
+I would have lucky opportunities come my way, from my actions, but I was never 100% sure what to do with them.
 
 It was often:
 
@@ -25,7 +25,7 @@ It was often:
 - _"But this one looks cool too."_
 - _"Ooo, what about this one?"_
 
-It wasn't until I picked a direction that I could differentiate between an opportunities that were "right for me" and ones that were okay but decline-able.
+It wasn't until I picked a direction that I could differentiate between opportunities that were "right for me" and ones that were okay but decline-able.
 
 It's advice I'd give to any young person.
 
