@@ -20,7 +20,7 @@ I got that high today when I watched [this Netflix interview](https://youtu.be/3
 
 <br />
 
-In it, he said: "I don't believe in writer's block. But I believe there's reader's block. And if you don't read a lot. Then you won't write a lot."
+In it, he said: _"I don't believe in writer's block. But I believe there's reader's block. And if you don't read a lot. Then you won't write a lot."_
 
 I 100% agree with this.
 
