@@ -9,9 +9,9 @@ date: "2021-01-19"
 socialImage: "/rb-cover.png"
 ---
 
-I LOVE when someone voices an idea, that I already believe in, in a way that I haven't thought about before.
+I love when someone voices an idea, that I already believe in, in a way that I haven't thought about before.
 
-It gives me a little high. Because then I get to look at an idea/concept from a fresh perspective. And I get a chance to think about that idea some more.
+It gives me a little high. Because then I get to look at the idea/concept from a fresh perspective.
 
 I got that high today when I watched [this Netflix interview](https://youtu.be/3lT6YfGc-S8) with Chris Rock.
 
@@ -56,6 +56,6 @@ So, consume more stuff.
 - Watch interviews of brilliant people
 - Experience things in life
 
-([Overconsumption](https://antdke.co/posts/create-more-than-you-consume) is a different problem)
+([Overconsumption](https://antdke.co/posts/create-more-than-you-consume), on the other hand, is a different problem)
 
 <br />
