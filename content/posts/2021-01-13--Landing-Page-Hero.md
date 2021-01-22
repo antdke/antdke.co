@@ -3,7 +3,7 @@ title: "Landing Page Hero"
 slug: "landing-page-hero"
 draft: false
 template: "post"
-category: "Tips"
+category: "Product"
 description: "Here are a few tips on how to craft your landing page hero."
 date: "2021-01-13"
 socialImage: "/lph-cover.png"

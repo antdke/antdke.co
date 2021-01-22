@@ -1,12 +1,12 @@
 ---
-title: 'Sales > Marketing'
-slug: 'sales-marketing'
+title: "Sales > Marketing"
+slug: "sales-marketing"
 draft: false
-template: 'post'
-category: 'Tips'
-description: 'In the early days of your business, sales is more important than marketing.'
-date: '2020-06-24'
-socialImage: 'tpp25_cover.png'
+template: "post"
+category: "Business Strategy"
+description: "In the early days of your business, sales is more important than marketing."
+date: "2020-06-24"
+socialImage: "tpp25_cover.png"
 ---
 
 <br />

@@ -1,12 +1,12 @@
 ---
-title: 'How to Write Great Microcopy'
-slug: 'microcopy'
+title: "How to Write Great Microcopy"
+slug: "microcopy"
 draft: false
-template: 'post'
-category: 'Tips'
-description: '40 pro-tips for writing UX microcopy'
-date: '2020-05-21'
-socialImage: '/microcopy.png'
+template: "post"
+category: "Product"
+description: "40 pro-tips for writing UX microcopy"
+date: "2020-05-21"
+socialImage: "/microcopy.png"
 ---
 
 <br />

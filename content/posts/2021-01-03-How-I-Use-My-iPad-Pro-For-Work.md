@@ -1,12 +1,12 @@
 ---
-title: 'How I Use My iPad For Work'
-slug: 'ipad-for-work'
+title: "How I Use My iPad For Work"
+slug: "ipad-for-work"
 draft: false
-template: 'post'
-category: 'Pro Tips'
+template: "post"
+category: "Productivity"
 description: "I use an iPad Pro as my main work machine. It's great, but it's way too fun. Here are a few pro tips I've learned on how to not get distracted if you also use your iPad for work."
-date: '2021-01-03'
-socialImage: '/ipad-pro-for-work.png'
+date: "2021-01-03"
+socialImage: "/ipad-pro-for-work.png"
 ---
 
 I use an iPad Pro as my main work horse.
