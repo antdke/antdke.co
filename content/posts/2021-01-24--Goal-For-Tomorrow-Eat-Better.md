@@ -27,6 +27,8 @@ So, I'm fighting temptation and going back to [my healthy eating habits](https:/
 
 I still have 1 bar in the fridge.
 
+And it's 10:44 pm.
+
 Wish me luck.
 
 \*_wipes sweat from brow_\*
