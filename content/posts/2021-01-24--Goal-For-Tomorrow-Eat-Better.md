@@ -37,6 +37,6 @@ Wish me luck.
 
 Also, enjoy this meme I made from another meme I found on Twitter.
 
-<img src="/tcl-meme.png" alt="Tony's Chocolonely" border="0" width="600">
+<img src="/tcl-meme.png" alt="Tony's Chocolonely Meme" border="0" width="600">
 
 <br />
