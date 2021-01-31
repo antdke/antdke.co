@@ -4,7 +4,7 @@ slug: "monopoly-the-board-game"
 draft: false
 template: "post"
 category: "Life"
-description: "..."
+description: "I played my first full game of monopoly yesterday. Its allusions to real life investing principles are poetic."
 date: "2021-01-28"
 socialImage: ""
 ---
