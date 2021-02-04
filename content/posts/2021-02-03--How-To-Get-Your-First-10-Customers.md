@@ -4,9 +4,9 @@ slug: "how-to-get-your-first-10-customers"
 draft: false
 template: "post"
 category: "Business Strategy"
-description: "..."
+description: "I found some good resources on this topic - bookmarking them here!"
 date: "2021-02-03"
-socialImage: ""
+socialImage: "/first10.png"
 ---
 
 So I'm working on a stealth side project.
