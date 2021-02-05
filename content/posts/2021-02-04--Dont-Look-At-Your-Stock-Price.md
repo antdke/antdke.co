@@ -6,7 +6,7 @@ template: "post"
 category: "Life"
 description: "Today I saw that my newsletter count dropped a bit. For a second, I felt bad. But then I remembered that Jeff Bezos doesn't even look at Amazon's daily stock price."
 date: "2021-02-04"
-socialImage: ""
+socialImage: "/dcysp-cover.png"
 ---
 
 So today I saw that my last [newsletter](https://theproductperson.com) issue was sent to 8 fewer subscribers.
