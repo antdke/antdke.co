@@ -13,7 +13,7 @@ I feel the same way as Joe and his guest Fahim here.
 
 All I want to do is put shit out and not see the results (good or bad) because I'm my own worst critic.
 
-- If it's good, then it fuels my ego & gives me a dopamine high.
+- If it's good, then it fuels my ego & gives me an insatiable dopamine high.
 - If it's bad, then I feel shitty and just criticize myself on why it was so bad.
 
 Because I’m such a critic of myself, it’s basically self-harm to start thinking about what others think — I’ll just criticize myself to infinity.
