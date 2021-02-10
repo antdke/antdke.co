@@ -6,7 +6,7 @@ template: "post"
 category: "Random"
 description: "Joe Rogan voiced something that I've felt for so long: I just want to release things and not look at the results."
 date: "2021-02-09"
-socialImage: ""
+socialImage: "/ijwtp-cover.png"
 ---
 
 I feel the same way as Joe and his guest Fahim here.
