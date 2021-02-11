@@ -1,7 +1,7 @@
 ---
-title: 'Projects 📦'
-template: 'page'
-socialImage: '/projects-social-share.png'
+title: "Projects 📦"
+template: "page"
+socialImage: "/projects-social-share.png"
 ---
 
 ### <span style="color:orange">**_A collection of all my projects._**</span>
@@ -53,7 +53,7 @@ socialImage: '/projects-social-share.png'
 
 **What it is:** A virtual concerts platform for musicians. <br>
 **Launched:** June 2020 <br>
-**Still Active?** [Yes](https://hinote.live)
+**Still Active?** [No](https://hinote.live)
 
 #### Achievements:
 
