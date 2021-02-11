@@ -3,7 +3,7 @@ title: "What Need Are You Filling For Your Audience?"
 slug: "audience-need"
 draft: false
 template: "post"
-category: "Audience"
+category: "Audience-Building"
 description: "I listened to the latest episode of the Morning Brew CEO's podcast. It made me rethink how I'm providing value to the people that read my stuff."
 date: "2021-02-10"
 socialImage: "/audience-need.png"
