@@ -12,7 +12,7 @@ socialImage: "/helcii-cover.png"
 Having enough liquid cash on hand is important.
 
 - Too little → Can’t buy stuff
-- Too much → Impulse buy
+- Too much → Impulse buys
 
 In some respects, I'm a bit overinvested.
 
