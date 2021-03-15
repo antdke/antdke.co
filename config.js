@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/",
   title: "Anthony Diké",
   subtitle:
-    "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City \n This here is my blog where I (try to) write everyday. I use this mostly as a personal diary where I'll write about my thoughts on life, product, current events and anything really.",
+    "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City. This here is my personal blog where I (try to) write everyday.",
   copyright: "© All rights reserved - Anthony Diké",
   disqusShortname: "",
   postsPerPage: 100,
@@ -37,7 +37,7 @@ module.exports = {
     name: "Anthony Diké",
     photo: "/anthony_botan.jpg",
     bio:
-      "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City \n This here is my blog where I (try to) write everyday. I use this mostly as a personal diary where I'll write about my thoughts on life, product, current events and anything really.",
+      "Hey 👋, I'm a 21 y/o product designer & NYU student from New York City. This here is my personal blog where I (try to) write everyday.",
     contacts: {
       email: "anthonydike@nyu.edu",
       facebook: "",
