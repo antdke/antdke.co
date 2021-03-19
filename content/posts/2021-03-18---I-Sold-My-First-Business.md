@@ -10,7 +10,7 @@ socialImage: "/sold-cover.png"
 ---
 
 <br />
-<img src="/sold-cover.png" alt="Personal Growth graph" border="0" width="600">
+<img src="/sold-cover.png" alt="" border="0" width="600">
 
 # what happened
 
@@ -54,7 +54,7 @@ So, after:
 
 the acquisition papers were signed 🎉
 
-<img src="/sold-signed-2.png" alt="Personal Growth graph" border="0" width="600">
+<img src="/sold-signed-2.png" alt="" border="0" width="600">
 
 # five lessons i learned
 
@@ -62,7 +62,7 @@ the acquisition papers were signed 🎉
 
 Numbers, stats, and data points that indicate growth give you leverage in negotiations with an investor or an acquirer.
 
-Without those metric, you're fighting an uphill battle in trying to convince an investor/acquirer that your business is worth what you say it is.
+Without those metrics, you're fighting an uphill battle in trying to convince an investor/acquirer that your business is worth what you say it is.
 
 With those metrics, it's easier to demand/justify whatever price you want.
 
