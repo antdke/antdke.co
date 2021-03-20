@@ -110,7 +110,7 @@ We'll be creating consistent content for [the newsletter](https://theproductpers
 
 The future is looking pretty awesome, can't wait for what's next :)
 
-<iframe src="https://open.spotify.com/embed/track/3aQem4jVGdhtg116TmJnHz" width="500" height="43" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3aQem4jVGdhtg116TmJnHz" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 # FAQs
 
