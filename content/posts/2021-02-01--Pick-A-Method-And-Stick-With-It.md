@@ -4,7 +4,7 @@ slug: "pick-a-method-and-stick-with-it"
 draft: false
 template: "post"
 category: "Life"
-description: "Practicing code is like practicing baskatball. There's a dozen ways to do one thing. Eventually, you realize you really only need to know one good way to do any specific thing."
+description: "Practicing code is like practicing basketball. There's a dozen ways to do one thing. Eventually, you realize you really only need to know one good way to do any specific thing."
 date: "2021-02-01"
 socialImage: "/pmsi-cover.png"
 ---
