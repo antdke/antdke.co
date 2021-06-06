@@ -4,7 +4,7 @@ slug: "dissolve-problems"
 draft: false
 template: "post"
 category: "Systems Thinking"
-description: "I really liked this concept from The System Thinker blog. The obvious thought is to try and solve a problem that arises. But the better, non-obvious action to take is to dissolve the problem by redesigning the environment or system in which the problem arises."
+description: "I really liked this concept from The System Thinker blog. The obvious thought is to try and solve a problem when it arises. But the better, non-obvious action to take is to dissolve the problem by redesigning the environment or system in which the problem arises."
 date: "2021-06-05"
 socialImage: "/elephant-cover.png"
 ---
