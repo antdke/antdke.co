@@ -55,13 +55,13 @@ You need a better system for analyzing how your customers use your product. _How
 
 ## Relationship problem
 
-Your partner is unhappy because they feel that you don't spend enough time together.
+Your partner is unhappy because they feel like you don't spend enough time together.
 
 <span style="color:#f2545b">**Solving the problem:**</span> Your first reaction might be to pacify your partner: "What do you mean? We're together all the time." Or to do "extra" things like go on trips.
 
 <span style="color:#2B9720">**Dissolving the problem:**</span> But in reality, the problem might be arising from your everyday life with your partner.
 
-So a way to dissolve the problem is to simply involve your partner in things that you typically do on your own everyday.
+So a way to dissolve the problem could be to simply involve your partner in things that you typically do on your own everyday.
 
 Going to buy groceries? Do it together. Doing work? Do it right next to them and talk to them about stuff from work that they might find interesting. Making some food? Invite your partner to cook with you. _Presence_.
 
