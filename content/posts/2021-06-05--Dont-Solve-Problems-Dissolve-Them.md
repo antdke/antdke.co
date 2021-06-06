@@ -9,7 +9,7 @@ date: "2021-06-05"
 socialImage: "/elephant-cover.png"
 ---
 
-I really liked this concept from [The System Thinker blog](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/).
+I really liked this concept from [The Systems Thinker blog](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/).
 
 The obvious thought one might have when a problem arises is to try and solve it right away.
 
