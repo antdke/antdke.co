@@ -41,7 +41,7 @@ For me, Equinox is a:
 
 (And funny enough, I met [a billionare](https://www.theverge.com/22298001/luminar-austin-russel-ceo-interview-self-driving-cars) there today.)
 
-<img src="/61221-4.png" alt="" border="0" width="500">
+<img src="https://res.cloudinary.com/antdke/image/upload/v1623601477/billionaire_wr9jn4.png" alt="" border="0" width="500">
 
 More on that story in a later blog post.
 
