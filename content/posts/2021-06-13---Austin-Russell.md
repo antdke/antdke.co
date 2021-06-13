@@ -11,6 +11,8 @@ socialImage: "/billionaire-cover.png"
 
 <img src="https://res.cloudinary.com/antdke/image/upload/v1623603237/billionaire-cover_es5fxt.png" alt="" border="0" width="800">
 
+<br />
+
 I ran into him at Equinox.
 
 At first, I thought it was just a guy that looked like him. But after extensive googling, I was 90% sure it was [Austin Russell](https://www.forbes.com/profile/austin-russell/?sh=55c40cfe6aa8).
