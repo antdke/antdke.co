@@ -9,6 +9,8 @@ date: "2021-06-13"
 socialImage: "/billionaire-cover.png"
 ---
 
+<br />
+
 <img src="https://res.cloudinary.com/antdke/image/upload/v1623603237/billionaire-cover_es5fxt.png" alt="" border="0" width="800">
 
 <br />
