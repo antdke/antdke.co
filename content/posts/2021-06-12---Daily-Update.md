@@ -43,6 +43,6 @@ For me, Equinox is a:
 
 <img src="https://res.cloudinary.com/antdke/image/upload/v1623601477/billionaire_wr9jn4.png" alt="" border="0" width="500">
 
-More on that story in a later blog post.
+More on that story in [a later blog post](https://antdke.co/posts/austin-russell).
 
 <br />
