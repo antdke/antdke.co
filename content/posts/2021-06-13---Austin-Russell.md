@@ -1,6 +1,6 @@
 ---
 title: "i met a billionaire"
-slug: "6-13-21"
+slug: "austin-russell"
 draft: false
 template: "post"
 category: "Life"
