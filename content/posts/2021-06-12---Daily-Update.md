@@ -6,7 +6,7 @@ template: "post"
 category: "Daily Updates"
 description: "Why I got my Equinox membership + I met a billionaire today."
 date: "2021-06-12"
-socialImage: ""
+socialImage: "/61221-4.png"
 ---
 
 I recently got an Equinox membership — about 2-3 weeks ago.

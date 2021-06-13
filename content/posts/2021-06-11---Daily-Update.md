@@ -6,7 +6,7 @@ template: "post"
 category: "Daily Updates"
 description: "Coffee, cardio, code"
 date: "2021-06-11"
-socialImage: ""
+socialImage: "/61121-apple-watch.png"
 ---
 
 _(Going to start doing daily updates and see where it goes. Not going to be anything crazy. Super short daily recaps with a photo or two.)_
