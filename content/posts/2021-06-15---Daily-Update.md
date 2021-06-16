@@ -31,14 +31,18 @@ I didn't realize how much of a workout Yoga was until I started taking classes f
 
 Yoga really works you out. I highly recommend it.
 
+(Today's total efforts)
+
+<img src="https://res.cloudinary.com/antdke/image/upload/v1623809785/61521-4_vddjxl.png" alt="" border="0" width="250">
+
 ## Having a plan vs Making a plan
 
 The quote: "plans are useless but planning is indispensable" [by Dwight D. Eisenhower](http://go.rainmakervt.com/resultsmailvt/2019/1/15/plans-are-useless-but-planning-is-indispensable) is pretty famous but I didn't really understand it until today.
 
-"Planning" and "Having a plan" sounded identical.
+"Planning" and "Having a plan" sounded identical to me.
 
 But, then I realized that the reason the distinction exists is because the act of making plans is useful but the plan itself is subject to change/can end up being obsolete (as plans very often do).
 
-So one should always make plans but one shouldn't get married to the plan.
+So one should always make plans, but one shouldn't get married to the plan.
 
 <br />
