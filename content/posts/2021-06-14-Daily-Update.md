@@ -6,7 +6,7 @@ template: "post"
 category: "Daily Updates"
 description: "a great workout day"
 date: "2021-06-14"
-socialImage: ""
+socialImage: "/61421-3.png"
 ---
 
 I like taking Equinox classes becuase they force me to get to the gym and sweat.
