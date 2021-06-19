@@ -6,7 +6,7 @@ template: "post"
 category: "Daily Updates"
 description: "I cut down on working out to priotize sleep more."
 date: "2021-06-19"
-socialImage: ""
+socialImage: "/61921-2.png"
 ---
 
 I stopped doing morning workouts for the past couple days to focus on getting more sleep.
