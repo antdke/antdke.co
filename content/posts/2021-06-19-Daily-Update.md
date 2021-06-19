@@ -11,7 +11,7 @@ socialImage: "/61921-2.png"
 
 I stopped doing morning workouts for the past couple days to focus on getting more sleep.
 
-And it shows in my sleep data.
+It shows in my sleep data.
 
 <img src="https://res.cloudinary.com/antdke/image/upload/v1624125771/61921-1_b6fbeg.png" alt="" border="0" width="300">
 
