@@ -6,7 +6,7 @@ template: "post"
 category: "Daily Updates"
 description: "Use your Sundays to plan out your week ahead."
 date: "2021-06-21"
-socialImage: "/62121-2.png"
+socialImage: "/62121-1.png"
 ---
 
 I used Sunday to plan out my week. And I really enjoyed it.
